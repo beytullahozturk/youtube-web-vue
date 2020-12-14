@@ -1,4 +1,6 @@
-# youtube
+# Vue.js İle Youtube Benzeri Web Projesi
+
+# YouTube
 
 ## Project setup
 ```
